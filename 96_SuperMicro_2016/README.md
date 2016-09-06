@@ -6,8 +6,9 @@ SuperMicro nodes to the DETER testbed in September 2016.
 
 ### identify.py
 
-This script contains the bits that were used to.  There are really
-three 'main' functions in it.
+This script contains the bits that were used to map IPMI MAC addresses
+to hostnames and collect eth0 mac addresses.  There are really three
+'main' functions in it.
 
  * main()
    * Search a range of IP addresses
